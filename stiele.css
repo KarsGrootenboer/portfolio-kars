@@ -172,13 +172,13 @@ img {
 }
 
 #Space1 {
-    grid-column: 1 / 7;
+    grid-column: 1 / 2;
     grid-row: 4 / 7;
     background-color: white;
 }
 
 #Space2 {
-    grid-column: 7 / 7;
+    grid-column: 6 / 7;
     grid-row: 4 / 7;
     background-color: white;
 }
